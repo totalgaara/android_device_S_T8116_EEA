@@ -1,1 +1,4 @@
-# -android_device_S_T8116_EEA-
+# TWRP Device-Tree for S T8116 
+## From (AltroConsumo / Test-Achat / Other seller)
+
+**Build status :** Not Started
