@@ -1,0 +1,1 @@
+# -android_device_S_T8116_EEA-
